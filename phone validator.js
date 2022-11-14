@@ -1,4 +1,4 @@
-<script>
+
 (function(win) {
     'use strict';
     
@@ -87,5 +87,4 @@ ready('#checkoutShippingAddress', function(element) {
             this.value = ''
         } 
     });
-});   
-</script>
+});
